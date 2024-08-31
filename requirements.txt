@@ -2,3 +2,4 @@ streamlit
 gymnasium
 matplotlib
 seaborn 
+tqdm
